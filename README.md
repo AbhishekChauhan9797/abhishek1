@@ -20,7 +20,7 @@ Installation
 
 Clone this repository:
 
-git clone https://github.com/AbhishekChauhan9797/chatbot-tkinter.git
+git clone https://github.com/AbhishekChauhan9797/abhishek1?tab=readme-ov-file
 
 Navigate to the project directory:
 
